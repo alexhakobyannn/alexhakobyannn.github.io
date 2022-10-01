@@ -1,0 +1,62 @@
+body{
+  background-color: rgb(200, 255, 0);
+}
+.nav1{
+  width: 99%;
+  min-height: 336px;
+  border:black 2px solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-content: center;
+}
+.nav2{
+  width: 75%;
+  height: 200px;
+  border: black 2px solid;
+}
+ .nav3{
+  width: 25%;
+  height: 200px;
+  border: black 2px solid;
+} 
+.anuazganun{
+  font-size:27px;
+}
+.axyus{
+  display: flex;
+  justify-content: start;
+}
+.name{
+  display: flex;
+  justify-content: center;
+  margin-top: 66px;
+  flex-direction: column;
+  align-items: center;
+}
+.round {
+  height: 167px;
+  width: 168px;
+  border-radius: 26%;
+
+}
+
+.txt2{
+  margin: 11px 0px 0px 4px;
+  font-size: 32px;
+}
+.txt{
+  margin: -1px 0px 0px 4px;
+    font-size: 22px;
+}
+.araj{
+  width: 50px;
+  height: 50px;
+  margin:-19px 0px 0px 53px;
+}
+.het{
+  width: 50px;
+  height: 50px;
+  margin: 20px 0px 0px 515px
+
+}

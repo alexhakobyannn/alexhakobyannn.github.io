@@ -1,0 +1,65 @@
+body{
+  background-color: rgb(200, 255, 0);
+}
+.nav{
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+  height: 353px;
+  border: black 1px solid;
+  margin: -136px 0px 8px 310px;
+
+  }
+.nkar{
+  height: 167px;
+  width: 168px;
+  border-radius: 46%;
+
+}
+#btn{
+  background-color: aqua;
+  margin: 15px 0px 0px 0px;
+}
+.btn2{
+  width: 159px;
+  height: 28px;
+background-color:aqua ;
+  margin: -6px 0px 0px 0px
+}
+
+#btnn{
+  background-color: aqua;
+  margin: 20px 0px 0px 0px;
+}
+
+
+.us{
+  width: 146px;
+  height: 82px;
+  margin: 0px 0px 0px 0px;
+}
+.am{
+  width: 146px;
+  height: 82px;
+   margin: -13px 0px 0px 0px;
+}
+.ru{
+  width: 146px;
+  height: 82px;
+  margin: 0px 0px 0px 0px;
+}
+
+.nkaram{
+  margin: -40px 0px 0px 855px;
+  width: 48px;
+  height: 54%;
+  border-radius: 79%;
+}
+.nkarus {
+  margin: 38px 0px 0px 910px;
+  width: 48px;
+  height: 54%;
+  border-radius: 79%;
+}
